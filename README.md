@@ -3,9 +3,8 @@
 
 ## Project Structure
 
-- **Task 1** (`task1_noise_model.ipynb`) - Custom noise model with Pauli X and Z errors
-- **Task 2** (`task2_repetition_code.ipynb`) - [[3,1,3]] quantum repetition code
-- **Task 3** (`task3_shor_code.ipynb`) - [[9,1,3]] Shor code implementation  
-- **Task 4** (`task4_steane_code.ipynb`) - [[7,1,3]] Steane (Hamming) code
-- **Task 5-6** (`task5_and_6_analysis.ipynb`) - Code comparison and challenges
+- **Tasks 1 & 2** (`qosf_q1_and_q2.ipynb`) - Noise model + [[3,1,3]] repetition code
+- **Task 3** (`q3_.ipynb`) - [[9,1,3]] Shor code implementation  
+- **Task 4** (`q4_.ipynb`) - [[7,1,3]] Steane (Hamming) code
+- **Tasks 5 & 6** (`q5_And_q6.ipynb`) - Code comparison and implementation challenges
 
